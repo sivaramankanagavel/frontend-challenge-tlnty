@@ -64,3 +64,11 @@ One recipient:
 - Bottom padding: 5px
 - Left padding: 10px
 - Right padding: 10px
+
+
+API ENDPOINT: https://devapi-ecs.talently.com/api/user/auth/list
+API PAYLOAD: {
+  "page": 1,
+  "take": 10,
+  "query": ""
+}
